@@ -1,0 +1,6 @@
+com/qa/BaseFiles/BaseApp.class
+com/qa/Utility/Reporting.class
+com/qa/Pages/PdpPage.class
+com/qa/Pages/CartPage.class
+com/qa/Pages/SearchPage.class
+com/qa/Pages/SignedInAndRegistrationPage.class

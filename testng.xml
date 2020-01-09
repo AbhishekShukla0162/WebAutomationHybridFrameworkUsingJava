@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+        <listener class-name="com.qa.Utility.Reporting" />
+    </listeners>
+
+
+
+    <test name="/Users/manish/Documents/MobileAppAutomationUsingJava">
+
+        <classes>
+            <class name="com.qa.TestFiles.AppTest">
+                <methods>
+                    <include name="TestFour"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
