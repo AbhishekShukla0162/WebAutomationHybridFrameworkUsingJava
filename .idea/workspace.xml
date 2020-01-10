@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fbd6ffb-9643-4631-ac16-afcd04eed100" name="Default Changelist" comment="" />
+    <list default="true" id="7fbd6ffb-9643-4631-ac16-afcd04eed100" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/BaseFiles/BaseApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/BaseFiles/BaseApp.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -21,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/BaseFiles/BaseApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <caret line="25" column="79" selection-start-line="25" selection-start-column="79" selection-end-line="25" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,13 +126,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/qa/Pages/CartPage.java" />
         <option value="$PROJECT_DIR$/../WebAutomationUsingJava/src/main/java/com/qa/base/BaseApp.java" />
         <option value="$PROJECT_DIR$/log4j.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/qa/BaseFiles/BaseApp.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/qa/TestFiles/AppTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/qa/Utility/Reporting.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/run.bat" />
         <option value="$PROJECT_DIR$/Run.ssh" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qa/BaseFiles/BaseApp.java" />
       </list>
     </option>
   </component>
@@ -141,7 +143,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="104" />
     <option name="y" value="123" />
     <option name="width" value="1336" />
@@ -162,6 +164,41 @@
             <path>
               <item name="WebAutomationHybridFrameworkUsingJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAutomationHybridFrameworkUsingJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationHybridFrameworkUsingJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationHybridFrameworkUsingJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationHybridFrameworkUsingJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationHybridFrameworkUsingJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationHybridFrameworkUsingJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationHybridFrameworkUsingJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationHybridFrameworkUsingJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationHybridFrameworkUsingJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationHybridFrameworkUsingJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationHybridFrameworkUsingJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+              <item name="BaseFiles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -400,16 +437,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/BaseFiles/BaseApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/Pages/PdpPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -471,6 +498,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="156" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/BaseFiles/BaseApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="79" selection-start-line="25" selection-start-column="79" selection-end-line="25" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

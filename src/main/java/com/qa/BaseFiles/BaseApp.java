@@ -23,6 +23,7 @@ public class BaseApp {
 
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability(MobileCapabilityType.BROWSER_NAME,"Chrome");
+        capabilities.setCapability(MobileCapabilityType.BROWSER_NAME,"Chrome");
         WebDriver driver = new ChromeDriver();
         driver.get(BaseUrl);
         driver.manage().window().maximize();
