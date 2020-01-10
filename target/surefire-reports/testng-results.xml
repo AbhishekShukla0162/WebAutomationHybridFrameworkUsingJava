@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="9077" started-at="2020-01-09T08:23:09Z" finished-at="2020-01-09T08:23:18Z">
+  <suite name="All Test Suite" duration-ms="9437" started-at="2020-01-10T10:46:44Z" finished-at="2020-01-10T10:46:54Z">
     <groups>
     </groups>
-    <test name="/Users/manish/Documents/MobileAppAutomationUsingJava" duration-ms="9077" started-at="2020-01-09T08:23:09Z" finished-at="2020-01-09T08:23:18Z">
+    <test name="/Users/manish/Documents/MobileAppAutomationUsingJava" duration-ms="9437" started-at="2020-01-10T10:46:44Z" finished-at="2020-01-10T10:46:54Z">
       <class name="com.qa.TestFiles.AppTest">
-        <test-method status="PASS" signature="TestFour()[pri:0, instance:com.qa.TestFiles.AppTest@769a1df5]" name="TestFour" duration-ms="8762" started-at="2020-01-09T13:53:09Z" finished-at="2020-01-09T13:53:18Z">
+        <test-method status="PASS" signature="TestFour()[pri:0, instance:com.qa.TestFiles.AppTest@60db1c0e]" name="TestFour" duration-ms="9109" started-at="2020-01-10T16:16:45Z" finished-at="2020-01-10T16:16:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestFour -->

@@ -9,6 +9,8 @@ import org.testng.annotations.Test;
 
 public class AppTest extends BaseApp {
 
+    int a = 10;
+
     public WebDriver driver = capabilities();
 
     @Test
@@ -108,6 +110,5 @@ public class AppTest extends BaseApp {
         Thread.sleep(2000);
         driver.get(BaseUrl);
         Thread.sleep(2000);
-
     }
 }

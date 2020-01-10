@@ -46,3 +46,15 @@
 2020-01-09 13:53:13,074 [main] INFO Snapdeal - Send ID of SignIn in Account
 2020-01-09 13:53:13,332 [main] INFO Snapdeal - Send Password of SignIn in Account
 2020-01-09 13:53:13,413 [main] INFO Snapdeal - Successfully Login into the Snapdeal App
+2020-01-10 14:23:03,814 [main] INFO Snapdeal - Base URL is Open
+2020-01-10 14:23:04,671 [main] INFO Snapdeal - Clicked on Signed Button
+2020-01-10 14:23:06,199 [main] INFO Snapdeal - Clicked on Account Button
+2020-01-10 14:23:06,745 [main] INFO Snapdeal - Send ID of SignIn in Account
+2020-01-10 14:23:06,950 [main] INFO Snapdeal - Send Password of SignIn in Account
+2020-01-10 14:23:07,066 [main] INFO Snapdeal - Successfully Login into the Snapdeal App
+2020-01-10 16:16:46,628 [main] INFO Snapdeal - Base URL is Open
+2020-01-10 16:16:47,319 [main] INFO Snapdeal - Clicked on Signed Button
+2020-01-10 16:16:48,297 [main] INFO Snapdeal - Clicked on Account Button
+2020-01-10 16:16:48,640 [main] INFO Snapdeal - Send ID of SignIn in Account
+2020-01-10 16:16:48,807 [main] INFO Snapdeal - Send Password of SignIn in Account
+2020-01-10 16:16:48,931 [main] INFO Snapdeal - Successfully Login into the Snapdeal App
